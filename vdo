@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1><center>VIDEO CONTENT</center></h1>
+    <video src="vdos/vdo1.mp4" type="video/quicktime" width="50%" height="25%" controls></video>
+    <br><br>
+    <h6>AUTOPLAY</h6>
+    <video src="vdos/vdo1.mp4" type="video/quicktime" width="50%" height="25%" autoplay controls ></video>
+    <br><br>
+    <br><br>
+    <h6>LOOP CONTROLS</h6>
+    <video src="vdos/vdo1.mp4" type="video/quicktime" width="50%" height="25%" loop controls ></video>
+    <br><br>
+    <h6>MUTE CONTROLS</h6>
+    <video src="vdos/vdo1.mp4" type="video/quicktime" width="50%" height="25%" mute controls ></video>
+    <br><br>
+   
+</body>
+</html>
